@@ -2,8 +2,6 @@
 
 ![fluidbox](fluidbox.png)  
 
-Fluidbox plugin for Morfy to create awesome lightboxes with fluid transitions like on Medium.  
-
 ## Installation
 See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
 
@@ -21,7 +19,7 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 </a>
 ```
 
-### Creating thumbnails with Gregwar Image Plugin
+### Creating thumbnails with [Gregwar Image Plugin](https://github.com/morfy-cms/morfy-plugin-gregwar-image)
 
 ```smarty
 <a href="/path/to/image">
