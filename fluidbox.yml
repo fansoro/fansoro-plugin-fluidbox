@@ -1,0 +1,22 @@
+name: Fluidbox
+version: 1.0.0
+description: "Fluidbox plugin for Morfy to create awesome lightboxes with fluid transitions like on Medium."
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-fluidbox
+bugs: https://github.com/morfy-cms/morfy-plugin-fluidbox/issues
+license: MIT
+
+# Plugin settings
+enabled: true
+types: [png,jpg,jpeg,gif]
+immediateOpen: false
+loader: false
+maxWidth: 0
+maxHeight: 0
+resizeThrottle: 500
+stackIndex: 1000
+stackIndexDelta: 10
+viewportFill: 0.95
