@@ -1,12 +1,12 @@
 name: Fluidbox
 version: 1.0.0
-description: "Fluidbox plugin for Morfy to create awesome lightboxes with fluid transitions like on Medium."
+description: "Fluidbox plugin for fansoro to create awesome lightboxes with fluid transitions like on Medium."
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-fluidbox
-bugs: https://github.com/morfy-cms/morfy-plugin-fluidbox/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-fluidbox
+bugs: https://github.com/fansoro/fansoro-plugin-fluidbox/issues
 license: MIT
 
 # Plugin settings

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Fluidbox Plugin
+ * Fansoro Fluidbox Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *

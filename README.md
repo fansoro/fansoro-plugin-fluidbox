@@ -3,7 +3,7 @@
 ![fluidbox](fluidbox.png)  
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in page content
 
@@ -19,7 +19,7 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 </a>
 ```
 
-### Creating thumbnails with [Gregwar Image Plugin](https://github.com/morfy-cms/morfy-plugin-gregwar-image)
+### Creating thumbnails with [Gregwar Image Plugin](https://github.com/fansoro/fansoro-plugin-gregwar-image)
 
 ```smarty
 <a href="/path/to/image">
@@ -46,4 +46,4 @@ See [demo](http://terrymun.github.io/Fluidbox/demo/index.html)
 | viewportFill | 0.95 | Dictates how much the longest axis of the image should fill the viewport. The value will be coerced to fall between 0 and 1. |
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-fluidbox/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-fluidbox/blob/master/LICENSE)
